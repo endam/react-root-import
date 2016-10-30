@@ -15,6 +15,12 @@ git clone https://github.com/endam/react-root-import
 npm install
 ```
 
+or if you would like to use yarn
+
+```
+yarn install
+```
+
 ### run webserver
 
 ```
