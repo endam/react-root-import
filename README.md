@@ -1,7 +1,9 @@
+# react-root-import
+
 ## Usage
 
 
-### download files to your  
+### download files to local  
 
 ```
 git clone https://github.com/endam/react-root-import
@@ -20,4 +22,4 @@ npm start
 ```
 
 ### access from your web browser
-localhost:8080
+<a href="http://localhost:8080" target="_blank">http://localhost:8080</a>
